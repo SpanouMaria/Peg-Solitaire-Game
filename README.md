@@ -25,7 +25,7 @@ Welcome to the "Peg Solitaire Game," a classic single-player puzzle game impleme
 **Ensure you have Python installed:** The game requires Python 3. Ensure it is installed on your system.
 **Run the Game:**
    ```bash
-   python PegSolitaire-Maria.py
+   python PegSolitaire.py
    ```
 
 ## Additional Information
